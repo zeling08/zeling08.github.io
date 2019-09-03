@@ -23,7 +23,7 @@ redirect_from:
 # Recent news
 * Jun.2019. I start my internship at [UTDA](https://www.cerc.utexas.edu/utda/), working with [Prof.David Z. Pan](http://www.ece.utexas.edu/people/faculty/david-z-pan), IEEE & SPIE fellow.
 * May.2019. One paper was submmited to "The Journal of Shanghai Jiao Tong University" about wireless antenna design for areospace engine as co-author！This journal is indexed by EI.
-* Jan.2019. Thank Fontile Education Fund for the <font color="#00FF7F"> Outstanding Undergraduate Student Scholarship</font>
+* Jan.2019. Thank Fontile Education Fund for the <font color="#dd0000"> Outstanding Undergraduate Student Scholarship</font>
  ￥30,000 for excellent academic performance (only 5 undergraduate students in our university)!
 * Sept.2018. Thank Samsung for the Samsung Scholarship! I am the only one student in our department awared for this honor!
 * A lovely cat joins our lab!!!
