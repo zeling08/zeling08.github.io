@@ -21,7 +21,7 @@ redirect_from:
 * <font color="#dd0000">I am looking for possible PhD research assistant opportunity starting from next year :)  !!!</font>
 
 # Recent news
-* Sep.2019. I finish my internship at [UTDA](https://www.cerc.utexas.edu/utda/). And the cooperative project with Jiaqi will submit a paper about quantization ONN to [DATE2020](https://www.date-conference.com/). For my independent project now outforms the state-of-art graph partition tool Metis ~5% at cut-size and also implement a CUDA version as acceleration. I prepare to submit my work to [IPDPS](http://www.ipdps.org/) on October.
+* Sep.2019. I finish my internship at [UTDA](https://www.cerc.utexas.edu/utda/). And the cooperative project with Jiaqi will submit a paper about quantization ONN to [DATE2020](https://www.date-conference.com/). For my independent project now outforms the state-of-art graph partition tool Metis ~5% at cut-size and also implement a CUDA version as acceleration. I prepare to submit my work to [IPDPS](http://www.ipdps.org/) on October 7.
 * Jun.2019. I start my internship at [UTDA](https://www.cerc.utexas.edu/utda/), working with [Prof.David Z. Pan](http://www.ece.utexas.edu/people/faculty/david-z-pan), IEEE & SPIE fellow.
 * May.2019. One paper was submmited to "The Journal of Shanghai Jiao Tong University" about wireless antenna design for areospace engine as co-author！This journal is indexed by EI.
 * Jan.2019. Thank Fontile Education Fund for the <font color="#dd0000"> Outstanding Undergraduate Student Scholarship</font>
