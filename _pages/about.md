@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://zhuhanqing.github.io/images/zhuhanqing-beijing.jpg?raw=true" alt="Photo" style="width: 720px;"/> 
+  <img src="https://zhuhanqing.github.io/images/ZHQ.jpg?raw=true" alt="Photo" style="width: 720px;"/> 
   
 </p>
 
