@@ -17,7 +17,7 @@ redirect_from:
 
 * I am a undergraduate student in the [Microelectronics Sicence and Technology Department](http://dmne.sjtu.edu.cn/dmne/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) and rank top 2 of 57 students for last three years [Click to View My Ranking Certification [PDF]](http://zhuhanqing.github.io/files/ranking.pdf) and maintain ranking topmost with a GPA 91.65 for recent four semsters!
 * Click [here](http://zhuhanqing.github.io/files/CV_ZHQ.pdf) to view my up-to-state CV. If you are interested in knowing more about me, please feel free to [contact me](https://zhuhanqing.github.io/contact/).
-* My research intersts mainly lie in the area of Electric Design Automation & Computer Architecture & digital intergrated circuits/VLSI design. 
+* My research intersts mainly lie in the area of Electric Design Automation & Computer Architecture & Digital intergrated circuits/VLSI design. 
 * <font color="#dd0000">I am looking for possible PhD research assistant opportunity starting from next year :)  !!!</font>
 
 # Recent news
