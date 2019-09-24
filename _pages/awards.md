@@ -9,7 +9,7 @@ author_profile: true
 * **Outstanding undergraduate Scholarship**,￥30,000, only 5 students in School of Electronic Information and Electrical Engineering were awarded for excellent academic performance among all undergraduate students, fun ded by Fontile Education Fund), Shanghai Jiao Tong University. 2019
 * **The Samsung Scholarship** (Only one students in Microelectronics Science and Technology Department), Shanghai Jiao Tong University. 2018.
 * **Zhiyuan Honors Scholarship** (Top 5%), Zhiyuan College, Shanghai Jiao Tong University. 2016.
-* **Fiirst Prize Scholarship** (Top 2%), Shanghai Jiao Tong University. 2017 & 2018.
+* **First Prize Scholarship** (Top 2%), Shanghai Jiao Tong University. 2017 & 2018.
 * **Excellent league cadre of Shanghai Jiao Tong University** Shanghai Jiao Tong University. 2019.
 * **Scholarship for Academic Progress** Shanghai Jiao Tong University. 2018.
 * **Full Scholarship for Summer School of SPbPU** (Only Two Students with full scholarship were selected in applicants from Tsinghua University, Shanghai Jiao Tong University, Zhejiang University, Harbin Institute of Technology... in China) Peter the Great St. Petersburg Polytechnic University, Russia. 2018.
