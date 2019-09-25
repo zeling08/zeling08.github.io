@@ -81,26 +81,26 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hanqing Zhu"
-  avatar           : "zhu-haha.jpg"
-  bio              : "Undergraduate student, Microelectronics Science and Technology Department, Shanghai Jiao Tong University"
+  name             : "Zeling Wang"
+  avatar           : "psb.jpg"
+  bio              : "Master, Pharmacy, Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "zhuhanqingmame@sjtu.edu.cn"
+  email            : "zeling-wang@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : ""
   foursquare       :
-  github           : "zhuhanqing"
+  github           : "zeling08"
   google_plus      :
   keybase          :
-  instagram        : "zhq_sjtu"
+  instagram        : ""
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
