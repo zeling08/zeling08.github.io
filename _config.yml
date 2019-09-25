@@ -8,13 +8,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hanqing Zhu"
+title                    : "Zeling Wang"
 title_separator          : "-"
-name                     : &name "Hanqing Zhu"
-description              : &description "Undergraduate Student, Microelectronics Sicence and Technology, Shanghai Jiao Tong University"
+name                     : &name "Zeling Wang"
+description              : &description "Master, Pharmacy, Shanghai Jiao Tong University"
 url                      : https://zhuhanqing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhuhanqing/zhuhanqing.github.io"
+repository               : "zeling08/zeling08.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
