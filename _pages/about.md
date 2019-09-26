@@ -1,8 +1,8 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "zhu hanqing"
-description: "This is zhu hanqing's personal website. Thanks for visiting!!!"
+excerpt: "Wang Zeling"
+description: "This is Wang Zeling's personal website. Thanks for visiting!!!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,7 +15,7 @@ redirect_from:
 </p>
 
 
-* I am a undergraduate student in the [Microelectronics Sicence and Technology Department](http://dmne.sjtu.edu.cn/dmne/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) and rank top 2 of 57 students for last three years [Click to View My Ranking Certification [PDF]](http://zhuhanqing.github.io/files/ranking.pdf) and maintain ranking topmost with a GPA 91.65 for recent four semsters!
+* I am a graduate student in the [School of Pharmacy](http://pharm.sjtu.edu.cn/en) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) and rank top 2 of 57 students for last three years [Click to View My Ranking Certification [PDF]](http://zhuhanqing.github.io/files/ranking.pdf) and maintain ranking topmost with a GPA 91.65 for recent four semsters!
 * Click [here](http://zhuhanqing.github.io/files/CV_ZHQ.pdf) to view my up-to-state CV. If you are interested in knowing more about me, please feel free to [contact me](https://zhuhanqing.github.io/contact/).
 * My research intersts mainly lie in the area of Electric Design Automation & Computer Architecture(Machine learning acceleration) & Digital intergrated circuits/VLSI design. 
 * <font color="#dd0000">I am looking for possible PhD research assistant opportunity starting from next year :)  !!!</font>
